@@ -1,0 +1,6 @@
+[submodule "extra_lib/open-meteo-sdk"]
+	path = extra_lib/open-meteo-sdk
+	url = https://github.com/open-meteo/sdk.git
+[submodule "extra_lib/flatbuffers"]
+	path = extra_lib/flatbuffers
+	url = https://github.com/google/flatbuffers.git
