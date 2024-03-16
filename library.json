@@ -1,0 +1,9 @@
+{
+  "build": {
+    "extraScript": "extra_script.py",
+    "includeDir": "include",
+    "flags": [
+      "-I extra_lib/flatbuffers/include"
+    ]
+  }
+}

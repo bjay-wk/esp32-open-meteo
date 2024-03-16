@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+build_flatbuffers
+include/weather_api_generated.h

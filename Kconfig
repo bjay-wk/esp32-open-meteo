@@ -1,0 +1,8 @@
+menu "OpenMeteo"
+
+config OPEN_METEO_API_KEY
+    string "api key"
+	help
+	api key
+
+endmenu
